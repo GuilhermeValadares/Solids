@@ -1,0 +1,14 @@
+c:\Users\guilh\Downloads\Solids\bin\Debug\net8.0\SolidLogistica.exe
+c:\Users\guilh\Downloads\Solids\bin\Debug\net8.0\SolidLogistica.deps.json
+c:\Users\guilh\Downloads\Solids\bin\Debug\net8.0\SolidLogistica.runtimeconfig.json
+c:\Users\guilh\Downloads\Solids\bin\Debug\net8.0\SolidLogistica.dll
+c:\Users\guilh\Downloads\Solids\bin\Debug\net8.0\SolidLogistica.pdb
+c:\Users\guilh\Downloads\Solids\obj\Debug\net8.0\SolidLogistica.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\guilh\Downloads\Solids\obj\Debug\net8.0\SolidLogistica.AssemblyInfoInputs.cache
+c:\Users\guilh\Downloads\Solids\obj\Debug\net8.0\SolidLogistica.AssemblyInfo.cs
+c:\Users\guilh\Downloads\Solids\obj\Debug\net8.0\SolidLogistica.csproj.CoreCompileInputs.cache
+c:\Users\guilh\Downloads\Solids\obj\Debug\net8.0\SolidLogistica.dll
+c:\Users\guilh\Downloads\Solids\obj\Debug\net8.0\refint\SolidLogistica.dll
+c:\Users\guilh\Downloads\Solids\obj\Debug\net8.0\SolidLogistica.pdb
+c:\Users\guilh\Downloads\Solids\obj\Debug\net8.0\SolidLogistica.genruntimeconfig.cache
+c:\Users\guilh\Downloads\Solids\obj\Debug\net8.0\ref\SolidLogistica.dll
